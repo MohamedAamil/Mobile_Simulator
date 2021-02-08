@@ -1,4 +1,4 @@
-# Mobile Simulator
+# Mobile Simulator:
 
 It is a app which functions like and mobile where the apps are show in the main screen and when we click the app that particular app runs, We can tell it’s more like and emulator.
 
