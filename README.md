@@ -3,16 +3,16 @@
 It is a app which functions like and mobile where the apps are show in the main screen and when we click the app that particular app runs, We can tell it’s more like and emulator.
 
 Modules required:
-	*tkinter- pip install  tk.
-	*PIL - pip install pillow.
-	*Pathlib - pip install pathlib.
-	*Pgzrun - pip install pgzero.
-	*Pygame- pip install pygame.
-	*PySimpleGUI- pip install pysimplegui.
-	*difflib.
-	*random.
-	*subprocess.
-	*time.
+	1. *tkinter- pip install  tk.
+	2. *PIL - pip install pillow.
+	3. *Pathlib - pip install pathlib.
+	4. *Pgzrun - pip install pgzero.
+	5. *Pygame- pip install pygame.
+	6. *PySimpleGUI- pip install pysimplegui.
+	7. *difflib.
+	8. *random.
+	9. *subprocess.
+	10. *time.
 
 Code:
 	With help of canvas widget from tkinter image background is created and using buttons images of apps are created.
