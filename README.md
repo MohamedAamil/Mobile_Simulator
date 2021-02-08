@@ -24,8 +24,8 @@ With help of canvas widget from tkinter image background is created and using bu
 
 Possible errors:
 
-Path may not be suiting you respective system in some rare occasions.
-Modules may not be installed properly.
-The images or sound file may not support your system sometimes.  
-If you have a very low end pc app may crash or give delay.
-Rest all errors had been rectified using exceptional handling.
+1. Path may not be suiting you respective system in some rare occasions.
+2. Modules may not be installed properly.
+3. The images or sound file may not support your system sometimes.  
+4. If you have a very low end pc app may crash or give delay.
+5. Rest all errors had been rectified using exceptional handling.
