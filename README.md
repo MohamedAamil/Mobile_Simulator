@@ -16,11 +16,10 @@ Modules required:
 10. *time.
 
 Code:
-With help of canvas widget from tkinter image background is created and using buttons images of apps are created.
-        
-        Each buttons has a command as a function with calls the respective app using subprocessor module.
-        
-        Time clock running time module and wallpaper can be changed using gallery app.
+
+With help of canvas widget from tkinter image background is created and using buttons images of apps are created.   
+Each buttons has a command as a function with calls the respective app using subprocessor module.    
+Time clock running time module and wallpaper can be changed using gallery app.
 
 Possible errors:
 
