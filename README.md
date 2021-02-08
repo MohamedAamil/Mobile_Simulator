@@ -28,3 +28,5 @@ Possible errors:
 3. The images or sound file may not support your system sometimes.  
 4. If you have a very low end pc app may crash or give delay.
 5. Rest all errors had been rectified using exceptional handling.
+
+Each app has its own read me file, do check them!
